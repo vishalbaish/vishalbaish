@@ -17,6 +17,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
  [![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalbaish&theme=synthwave)](https://github.com/vishalbaish/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalbaish)](https://github.com/vishalbaish/github-readme-stats)
   
 <!--
 **vishalbaish/vishalbaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
