@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  [![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalbaish)](https://github.com/vishalbaish/github-readme-stats)
+
 <!--
 **vishalbaish/vishalbaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
