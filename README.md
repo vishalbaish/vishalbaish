@@ -1,7 +1,7 @@
 ### Hi there,  I'm Vishal 👋
 
   - 🌱 I’m currently exploring Full Stack Development
-  - 👯 I’m looking to collaborate on other Web Developers
+  - 👯 I’m looking to collaborate with other Web Developers
   - 🥅 2020 Goals: Contribute more to Open Source projects
   - ⚡ Fun fact: I Like Playing Guitar/Drums
   
