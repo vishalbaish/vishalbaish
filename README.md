@@ -16,7 +16,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
- [![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishalbaish&theme=synthwave)](https://github.com/vishalbaish/github-readme-stats)
+ [![Vishal's github stats](https://github-readme-stats-seven-amber.vercel.app/api?username=vishalbaish&theme=synthwave)](https://github.com/vishalbaish/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalbaish&layout=compact)](https://github.com/vishalbaish/github-readme-stats)
   
