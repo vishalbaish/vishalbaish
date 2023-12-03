@@ -2,7 +2,7 @@
 
   - 🌱 I’m currently exploring Full Stack Development
   - 👯 I’m looking to collaborate with other Web Developers
-  - 🥅 2021 Goals: Contribute more to Open Source projects
+  - 🥅 2024 Goals: Contribute more to Open Source projects
   - ⚡ Fun fact: I Like Playing Guitar/Drums
   
 ### MY WEB APPLICATIONS
